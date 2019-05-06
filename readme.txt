@@ -1,0 +1,1 @@
+Download the Zenva.zip file to my work computer to see if I can view the branches and information that was done. Use git log command to see if I can read it within VS Code Terminal.
